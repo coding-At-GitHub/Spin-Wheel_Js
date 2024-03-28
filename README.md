@@ -6,7 +6,6 @@ Customizable Options: Configure the wheel with various sectors and outcomes.
 Random Spin: Users can spin the wheel to receive a random outcome.
 Responsive Design: Optimized for different screen sizes, ensuring compatibility across devices.
 
-
 ## Usage
 Configure Wheel: Modify the sectors and outcomes of the wheel according to your preferences.
 Spin the Wheel: Click the "Spin" button to rotate the wheel and receive a random outcome.
@@ -18,3 +17,4 @@ JavaScript: Implementing wheel spinning logic and random outcome generation.
 Contributing
 
 ## Acknowledgments
+Online teachers , Google , Youtube
