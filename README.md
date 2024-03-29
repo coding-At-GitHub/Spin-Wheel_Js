@@ -17,4 +17,4 @@ JavaScript: Implementing wheel spinning logic and random outcome generation.
 Contributing
 
 ## Acknowledgments
-Online teachers , Google , Youtube
+Tutorials from Online teachers , Google , Youtube
